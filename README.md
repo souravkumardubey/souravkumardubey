@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FitFolio**
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **TypeScript & Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **FitFolio**
 
