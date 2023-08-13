@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravkumardubey" alt="souravkumardubey" /></a> </p>
 
-- 🔭 I’m currently working on **FitFolio**
+- 🔭 I’m currently working on an e-commerce website **OneStop**
 
 - 🌱 I’m currently learning **TypeScript & Tailwind CSS**
 
