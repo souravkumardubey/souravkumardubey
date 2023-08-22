@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **TypeScript & Tailwind CSS**
 
+- 🔖 Checkout my blogs <a href="https://medium.com/@sourav_kd" alt="medium" /></a>
+
 - 👯 I’m looking to collaborate on **FitFolio**
 
 - 💬 Ask me about **JS, NodeJS**
