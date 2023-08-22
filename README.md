@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript & Tailwind CSS**
 
-- 🔖 Checkout my blogs <a href="https://medium.com/@sourav_kd" alt="medium" /></a>
+- 🔖 Checkout my <a href="https://medium.com/@sourav_kd" alt="medium" />Blogs</a>
 
 - 👯 I’m looking to collaborate on **FitFolio**
 
