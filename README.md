@@ -29,7 +29,9 @@ currently_building:
   - codex: Distributed code execution engine in Docker sandboxes
   - crackd: AI-powered job preparation platform
   - chatly: Real-time chat app with modern web stack
-fun_fact: I've solved 500+ DSA problems across platforms
+achievements:
+  - 2x ICPC Regionalist
+  - Expert @ Codeforces
 ```
 
 ---
